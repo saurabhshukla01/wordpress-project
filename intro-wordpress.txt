@@ -1,0 +1,33 @@
+1) Install Zip file of wordpress site folder .
+link : https://wordpress.org/download/
+
+download zip folder 
+
+create account and host account also
+
+database created account : 
+database name 
+database username
+database password
+
+----------------------------------------------
+
+login : 
+username :   saurabh.shukla053@gmail.com
+password :   saurabhshukla@123
+
+----------------------------------------------
+
+goto dashboard :   
+
+http://localhost/wordpress/wp-admin/
+
+wordpress dashboard url.
+
+themes active using dashboard of wordpress.
+
+http://localhost/wordpress/
+
+check active themes data and your create site ..
+
+----------------------------------------------------
